@@ -1,5 +1,9 @@
+import Chai from "./Chai"
+
 function App() {
-  return <h1>chai aur react with vite | shiv</h1>;
+  return 
+  <Chai/>
+
 }
 
 export default App;
