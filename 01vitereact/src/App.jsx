@@ -6,4 +6,4 @@ function App() {
 
 }
 
-export default Chai;
+export default App;
